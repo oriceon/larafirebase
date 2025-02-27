@@ -1,14 +1,14 @@
 <p align="center"><img src="/art/cover.png" height="400"></p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/kutia-software-company/larafirebase">
-        <img src="https://img.shields.io/packagist/dt/kutia-software-company/larafirebase" alt="Total Downloads">
+    <a href="https://packagist.org/packages/oriceon/larafirebase">
+        <img src="https://img.shields.io/packagist/dt/oriceon/larafirebase" alt="Total Downloads">
     </a>
-    <a href="https://packagist.org/packages/kutia-software-company/larafirebase">
-        <img src="https://img.shields.io/packagist/v/kutia-software-company/larafirebase" alt="Latest Stable Version">
+    <a href="https://packagist.org/packages/oriceon/larafirebase">
+        <img src="https://img.shields.io/packagist/v/oriceon/larafirebase" alt="Latest Stable Version">
     </a>
-    <a href="https://packagist.org/packages/kutia-software-company/larafirebase">
-        <img src="https://img.shields.io/packagist/l/kutia-software-company/larafirebase" alt="License">
+    <a href="https://packagist.org/packages/oriceon/larafirebase">
+        <img src="https://img.shields.io/packagist/l/oriceon/larafirebase" alt="License">
     </a>
 </p>
 
@@ -29,7 +29,7 @@ Follow the steps below to install the package.
 **Composer**
 
 ```
-composer require kutia-software-company/larafirebase
+composer require oriceon/larafirebase
 ```
 
 **Copy Config**
